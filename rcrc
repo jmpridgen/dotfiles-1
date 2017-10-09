@@ -1,2 +1,2 @@
-EXCLUDES="README.md LICENSE"
+EXCLUDES="README.md LICENSE autobot.jpg screenshot.png"
 DOTFILES_DIRS="$HOME/dotfiles"
